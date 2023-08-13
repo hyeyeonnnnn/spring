@@ -1,2 +1,2 @@
 # spring
-Spring 독학
+Spring독학
